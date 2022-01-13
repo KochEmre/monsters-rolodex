@@ -1,4 +1,6 @@
-Emre Koc 2
+My demo app - mosters-rolodex
+https://kochemre.github.io/monsters-rolodex/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
